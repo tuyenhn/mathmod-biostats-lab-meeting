@@ -9,4 +9,4 @@
 | Date       | Title                                                  | Presenter        |
 | :--------- | :----------------------------------------------------- | :--------------- |
 | 12/03/2024 | Health Economics Evaluation for Hepatitis C in Vietnam | Huyen Nguyen Anh |
-| 26/03/2024 | Dengue forecasting with cross-validation               | Tuyen Huynh      |
+| 26/03/2024 | Dengue forecasting with out-of-time cross-validation               | Tuyen Huynh      |
