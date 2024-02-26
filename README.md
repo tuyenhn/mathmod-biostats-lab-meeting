@@ -2,7 +2,8 @@
 
 - _Time_: Tuesdays, 2-3pm
 - _Frequency_: Biweekly, extra meetings can be added inbetween
-- _Location_: Room 309 (subject to change depending on vacancy) / Zoom
+- _Location_: Room 309 (subject to change depending on vacancy) and Zoom
+- _Coordinator_: Tuyen (<tuyenhn@oucru.org>)
 
 ## 2024 schedule
 
