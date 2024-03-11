@@ -2,15 +2,15 @@
 
 - _Time_: Tuesdays, 2-3pm
 - _Frequency_: Biweekly, extra meetings can be added inbetween
-- _Location_: Room 309 (subject to change depending on vacancy) and Zoom
+- _Location_: Room 309 (subject to change depending on vacancy) and [Zoom](https://zoom.us/j/97208653692?pwd=UHR3bFhuejZrTERNS0FYUGZ0NkFCdz09)
 - _Coordinator_: Tuyen (<tuyenhn@oucru.org>)
 
 ## 2024 schedule
 
 | Date       | Title                                                  | Presenter        | Start time  | Location |
-| :--------- | :----------------------------------------------------- | :--------------- | :---------: | -------- |
+| :--------- | :----------------------------------------------------- | :--------------- | :---------- | :------- |
 | 12/03/2024 | Health Economics Evaluation for Hepatitis C in Vietnam | Huyen Nguyen Anh | 14:00 GMT+7 | R309     |
-| 26/03/2024 | Dengue forecasting with out-of-time cross-validation   | Tuyen Huynh      | 14:00 GMT+7 | TBA |
+| 26/03/2024 | Dengue forecasting with out-of-time cross-validation   | Tuyen Huynh      | 14:00 GMT+7 | TBA      |
 
 ## Usage instruction
 
