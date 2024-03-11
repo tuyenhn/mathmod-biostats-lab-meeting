@@ -1,0 +1,25 @@
+on:
+  schedule:
+    - cron: "0 4 * * *" # 4:00 UTC everyday
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v4 # checkout the README.md content to github runner.
+        with:
+          sparse-checkout: README.md
+          sparse-checkout-cone-mode: false
+      - name: setup python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - name: execute py script # run the run.py to get the latest data
+        run: python status-auto-update/script.py
+      - name: commit and push
+        run: |
+          git add README.md
+          git commit -m "auto-update talk statuses"
+          git push
