@@ -7,10 +7,17 @@
 
 ## 2024 schedule
 
-| Date       | Title                                                  | Presenter        | Start time  | Location |
-| :--------- | :----------------------------------------------------- | :--------------- | :---------- | :------- |
-| 12/03/2024 | Health Economics Evaluation for Hepatitis C in Vietnam | Huyen Nguyen Anh | 14:00 GMT+7 | R309     |
-| 26/03/2024 | Dengue forecasting with out-of-time cross-validation   | Tuyen Huynh      | 14:00 GMT+7 | TBA      |
+| Status | Date       | Title                                                  | Presenter                      | Organisation           | Location |
+| :----: | :--------- | :----------------------------------------------------- | :----------------------------- | ---------------------- | :------- |
+|  🟢   | 12/03/2024 | Health Economics Evaluation for Hepatitis C in Vietnam | Huyen Nguyen Anh               | Modelling group, OUCRU | R309     |
+|  🟡   | 26/03/2024 | Dengue forecasting with out-of-time cross-validation   | Tuyen Huynh                    | Modelling group, OUCRU | TBA      |
+|  🟡   | 02/04/2024 |                                                        | Minh Hanh Nguyen, Trang Nguyen | Hasselt University     | TBA      |
+
+Status indicators:
+
+- 🟢: Current/Upcoming talk
+- 🟡: Scheduled talk(s)
+- 🔴: Past talks
 
 ## Usage instruction
 
