@@ -7,10 +7,10 @@
 
 ## 2024 schedule
 
-| Date       | Title                                                  | Presenter        |
-| :--------- | :----------------------------------------------------- | :--------------- |
-| 12/03/2024 | Health Economics Evaluation for Hepatitis C in Vietnam | Huyen Nguyen Anh |
-| 26/03/2024 | Dengue forecasting with out-of-time cross-validation               | Tuyen Huynh      |
+| Date       | Title                                                  | Presenter        | Start time  | Location |
+| :--------- | :----------------------------------------------------- | :--------------- | :---------: | -------- |
+| 12/03/2024 | Health Economics Evaluation for Hepatitis C in Vietnam | Huyen Nguyen Anh | 14:00 GMT+7 | R309     |
+| 26/03/2024 | Dengue forecasting with out-of-time cross-validation   | Tuyen Huynh      | 14:00 GMT+7 | TBA |
 
 ## Usage instruction
 
