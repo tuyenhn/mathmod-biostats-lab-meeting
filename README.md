@@ -10,7 +10,7 @@
 | Status | Date       | Title                                                                                                            | Presenter                      | Organisation           | Location |
 | :----: | :--------- | :--------------------------------------------------------------------------------------------------------------- | :----------------------------- | :--------------------- | :------- |
 |  🔴   | 12/03/2024 | Health Economics Evaluation for Hepatitis C in Vietnam                                                           | Huyen Nguyen Anh               | Modelling group, OUCRU | R309     |
-|  🟢   | 26/03/2024 | Dengue forecasting with out-of-time cross-validation                                                             | Tuyen Huynh                    | Modelling group, OUCRU | R309     |
+|  🟢   | 26/03/2024 | Dengue forecast modelling and evaluation framework in Ho Chi Minh City                                           | Tuyen Huynh                    | Modelling group, OUCRU | R309     |
 |  🟡   | 02/04/2024 | The impact of national and international travel on spatio-temporal transmission of SARS-CoV-2 in Belgium in 2021 | Minh Hanh Nguyen, Trang Nguyen | Hasselt University     | TBA      |
 
 Status indicators:
