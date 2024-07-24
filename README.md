@@ -11,8 +11,8 @@
 | :----: | :--------- | :--------------------------------------------------------------------------------------------------------------- | :--------------------------------- | :-------------------------- | :------- |
 |   🟡   | xx/08/2024 | **Spatial methods**: Summary from the MIDSEA Summer School 2024                                                  | Andra, Sophea                      | NUS, UTokyo                 | R30x     |
 |   🟡   | xx/08/2024 | **Modelling Interventions**: Summary from the MIDSEA Summer School 2024                                          | Thinh Ong, Wei Hao, Chang          | OUCRU, Singapore NCID, MORU | R30x     |
-|   🟡   | 30/07/2024 | **Simulation**: Summary from the MIDSEA Summer School 2024                                                       | Manh Nguyen, Lam Phung, Jingjie    | OUCRU, NUS, Singapore MoH   | R308     |
-|   🟢   | 23/07/2024 | **Inference Methods**: Summary from the MIDSEA Summer School 2024                                                | Tuyen Huynh, Nguyen Pham           | Modelling group, OUCRU      | R309     |
+|   🟢   | 30/07/2024 | **Simulation**: Summary from the MIDSEA Summer School 2024                                                       | Manh Nguyen, Lam Phung, Jingjie    | OUCRU, NUS, Singapore MoH   | R308     |
+|   🔴   | 23/07/2024 | **Inference Methods**: Summary from the MIDSEA Summer School 2024                                                | Tuyen Huynh, Nguyen Pham           | Modelling group, OUCRU      | R309     |
 |   🔴   | 18/07/2024 | **Modelling 102**: Summary from the MIDSEA Summer School 2024                                                    | Hoang Tran, Yen Hoang, Khang Huynh | OUCRU, HCDC                 | R309     |
 |   🔴   | 23/04/2024 | Open research: lessons learnt from the Berlin-Oxford school and discussion                                       | Vu Tien Viet Dung, Ho Bich Hai     | OUCRU HN, EI group (OUCRU)  | R309     |
 |   🔴   | 16/04/2024 | TB meningitis: understanding and improving diagnosis and prognosis using novel tools and approaches              | Trinh Dong                         | Biostats group, OUCRU       | R309     |
