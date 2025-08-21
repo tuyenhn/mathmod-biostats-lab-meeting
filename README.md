@@ -5,7 +5,7 @@
 - _Location_: Room 309 (subject to change depending on vacancy) and [Zoom](https://zoom.us/j/97208653692?pwd=UHR3bFhuejZrTERNS0FYUGZ0NkFCdz09)
 - _Coordinator_: Tuyen (<tuyenhn@oucru.org>)
 
-## 2024 schedule
+# Schedule
 
 | Status | Date       | Title                                                                                                                                                         | Presenter                               | Organisation                                                                | Location |
 | :----: | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-------------------------------------- | :-------------------------------------------------------------------------- | :------- |
