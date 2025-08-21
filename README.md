@@ -9,6 +9,11 @@
 
 | Status | Date       | Title                                                                                                                                                         | Presenter                               | Organisation                                                                | Location |
 | :----: | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-------------------------------------- | :-------------------------------------------------------------------------- | :------- |
+|   🟢   | 22/08/2025 | Designing a Public Health Dashboard: Lessons from My Internship at OUCRU Vietnam                                                                              | David Hovey                             | Princeton University                                                        | R309     |
+|   🔴   | 10/06/2025 | Clinical Diagnosis and Prognosis; The Role of Nonlinear Dynamics                                                                                              | Prof. Ronald Geskus                     | Biostats group, OUCRU                                                       | R309     |
+|   🔴   | 04/03/2025 | Transformers (for Time Series Forecasting)                                                                                                                    | Tuyen Huynh                             | Modelling group, OUCRU                                                      | R309     |
+|   🔴   | 16/09/2024 | Introduction of Climate Downscaling and its application to the DART project                                                                                   | Tung Nguyen                             | Modelling group, OUCRU                                                      | R308     |
+|   🔴   | 04/09/2024 | Optimal Transport and its Application to Domain Adaptation                                                                                                    | Nhi Pham                                | CMAP, École Polytechnique, France                                           | R309     |
 |   🔴   | 13/08/2024 | **Modelling Interventions**: Summary from the MIDSEA Summer School 2024                                                                                       | Thinh Ong, Wei Hao, Chang               | OUCRU, Singapore NCID, MORU                                                 | R309     |
 |   🔴   | 09/08/2024 | MathMod internship report - 'Probabilistic forecasting of dengue fever in HCMC' & 'Think continuous': towards an estimate of dengue incidence in HCMC in 2015 | Constant Bourdrez & Olivier Supplisson  | ESPCI Paris - PSL & Collège de France, Ecology and Evolution of Health Team | R309     |
 |   🔴   | 06/08/2024 | Chaos modelling applied to epidemiology, ecology, environment and their couplings                                                                             | Sylvain Mangiarotti                     | Institut de Recherche pour le Développement (IRD)                           | R309     |
@@ -25,7 +30,7 @@
 Status indicators:
 
 - 🟢: Current/Upcoming talk
-- 🟡: Scheduled talk(s)
+- 🟡: Scheduled/Tentative talk(s)
 - 🔴: Past talks
 
 ## Usage instruction
