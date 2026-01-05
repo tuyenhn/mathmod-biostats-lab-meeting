@@ -4,12 +4,17 @@
 - _Frequency_: (Usually) Biweekly, extra meetings can be added inbetween
 - _Location_: Room 309 (subject to change depending on vacancy) and [Zoom](https://zoom.us/j/97208653692?pwd=UHR3bFhuejZrTERNS0FYUGZ0NkFCdz09)
 - _Coordinator_: Tuyen (<tuyenhn@oucru.org>)
+- _Status indicators_:
+  - 🟢: Current/Upcoming talk
+  - 🟡: Scheduled/Tentative talk(s)
+  - 🔴: Past talks
 
 # Schedule
 
 | Status | Date       | Title                                                                                                                                                         | Presenter                               | Organisation                                                                | Location |
 | :----: | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-------------------------------------- | :-------------------------------------------------------------------------- | :------- |
-|   🟢   | 22/08/2025 | Designing a Public Health Dashboard: Lessons from My Internship at OUCRU Vietnam                                                                              | David Hovey                             | Princeton University                                                        | R309     |
+|   🟡   | 13/01/2026 | TBA                                                                              | Nhi Dinh                             | Johns Hopkins Bloomberg School of Public Health                                                        | TBA     |
+|   🔴   | 22/08/2025 | Designing a Public Health Dashboard: Lessons from My Internship at OUCRU Vietnam                                                                              | David Hovey                             | Princeton University                                                        | R309     |
 |   🔴   | 10/06/2025 | Clinical Diagnosis and Prognosis; The Role of Nonlinear Dynamics                                                                                              | Prof. Ronald Geskus                     | Biostats group, OUCRU                                                       | R309     |
 |   🔴   | 04/03/2025 | Transformers (for Time Series Forecasting)                                                                                                                    | Tuyen Huynh                             | Modelling group, OUCRU                                                      | R309     |
 |   🔴   | 16/09/2024 | Introduction of Climate Downscaling and its application to the DART project                                                                                   | Tung Nguyen                             | Modelling group, OUCRU                                                      | R308     |
@@ -26,12 +31,6 @@
 |   🔴   | 02/04/2024 | The impact of national and international travel on spatio-temporal transmission of SARS-CoV-2 in Belgium in 2021                                              | Minh Hanh Nguyen, Trang Nguyen          | Hasselt University                                                          | R309     |
 |   🔴   | 26/03/2024 | Dengue forecast modelling and evaluation framework in Ho Chi Minh City                                                                                        | Tuyen Huynh                             | Modelling group, OUCRU                                                      | R309     |
 |   🔴   | 12/03/2024 | Health Economics Evaluation for Hepatitis C in Vietnam                                                                                                        | Huyen Nguyen Anh                        | Modelling group, OUCRU                                                      | R309     |
-
-Status indicators:
-
-- 🟢: Current/Upcoming talk
-- 🟡: Scheduled/Tentative talk(s)
-- 🔴: Past talks
 
 ## Usage instruction
 
